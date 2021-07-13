@@ -1,0 +1,17 @@
+D:\NCS\Training\NTUC\C#\Assessment\BankingApp\BankingAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\NCS\Training\NTUC\C#\Assessment\BankingApp\BankingAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\NCS\Training\NTUC\C#\Assessment\BankingApp\BankingAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\NCS\Training\NTUC\C#\Assessment\BankingApp\BankingAppTests\bin\Debug\BankingAppTests.dll
+D:\NCS\Training\NTUC\C#\Assessment\BankingApp\BankingAppTests\bin\Debug\BankingAppTests.pdb
+D:\NCS\Training\NTUC\C#\Assessment\BankingApp\BankingAppTests\bin\Debug\BankingApp.exe
+D:\NCS\Training\NTUC\C#\Assessment\BankingApp\BankingAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\NCS\Training\NTUC\C#\Assessment\BankingApp\BankingAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\NCS\Training\NTUC\C#\Assessment\BankingApp\BankingAppTests\bin\Debug\BankingApp.pdb
+D:\NCS\Training\NTUC\C#\Assessment\BankingApp\BankingAppTests\bin\Debug\BankingApp.exe.config
+D:\NCS\Training\NTUC\C#\Assessment\BankingApp\BankingAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\NCS\Training\NTUC\C#\Assessment\BankingApp\BankingAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\NCS\Training\NTUC\C#\Assessment\BankingApp\BankingAppTests\obj\Debug\BankingAppTests.csproj.AssemblyReference.cache
+D:\NCS\Training\NTUC\C#\Assessment\BankingApp\BankingAppTests\obj\Debug\BankingAppTests.csproj.CoreCompileInputs.cache
+D:\NCS\Training\NTUC\C#\Assessment\BankingApp\BankingAppTests\obj\Debug\BankingAppTests.csproj.CopyComplete
+D:\NCS\Training\NTUC\C#\Assessment\BankingApp\BankingAppTests\obj\Debug\BankingAppTests.dll
+D:\NCS\Training\NTUC\C#\Assessment\BankingApp\BankingAppTests\obj\Debug\BankingAppTests.pdb

@@ -8,7 +8,7 @@ namespace BankingApp
 {
     public class Banking
     {
-
+        //test 
         public int accountNo { get; set; }
         public string accountName { get; set; }
         public string accountType { get; set; }
